@@ -8,6 +8,6 @@ FRONTEND - MIDDLE-END - BACKEND
 
 - We try to prepare an API Gateway to acts as this middle end.
 
-- For creating proxy middleware we will use http-proxy-middlware package.
-- For creating rate limiting we will use express Rate limit package.
+- For creating proxy middleware I have  used http-proxy-middlware package.
+- For creating rate limiting I have used express Rate limit package.
 - For logging i have used morgan package.
